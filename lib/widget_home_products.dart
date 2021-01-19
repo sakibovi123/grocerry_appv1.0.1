@@ -154,3 +154,8 @@ class _WidgetProductState extends State<WidgetProduct> {
   }
 
 }
+
+/// To SHOW OUTPUT we must define the parameters in the home.dart
+
+
+// ClassName(labelName: "Top Sales", tagId: Config.todayOffersTagId);
